@@ -79,8 +79,9 @@ dynamic-insurance-premium-calculator/
 ## 🧪 How to Run
 
 ### 1. Clone this repo
-git clone https://github.com/your-username/dynamic-insurance-premium-calculator.git
-cd dynamic-insurance-premium-calculator
+git clone [https://github.com/your-username/dynamic-insurance-premium-calculator.git](https://github.com/Kamal-Shirupa/Dynamic-Insurance-Premium-Calculator)
+
+dynamic-insurance-premium-calculator
 
 ### 2. Install dependencies
 pip install -r requirements.txt
