@@ -1,0 +1,35 @@
+=== Advanced Insurance Calculator ===
+Required fields marked with *. Press Enter for optional fields.
+
+*Age (years) [Press Enter for default=35]: 30
+*Gender (M/F) [Press Enter for Male]: M
+*Do you smoke? (yes/no): no
+*Do you consume alcohol? (yes/no): no
+Health Condition (None/Minor/Major): none
+*Family history of serious illness? (yes/no): no
+*Your occupation: teacher
+*Monthly Income (₹) [Press Enter for default=50000]: 50000
+Policy Types: 0=Term, 1=Endowment, 2=Whole Life
+Select Policy Type (0-2): 1
+*Coverage Amount (₹) [Press Enter for default=1000000]: 
+*Policy Term (years) [Press Enter for default=10]: 
+Zone Risk: 0=Safe, 1=Moderate, 2=Unsafe
+Select Zone Risk (0-2) [Press Enter for 1=Moderate]: 
+Driving Score (0-100) [Press Enter for default=85]:
+
+Enter your occupation again for segmentation: teacher
+
+--- INSURANCE PREMIUM REPORT ---
+Policy Type: Endowment
+Coverage: ₹1,000,000
+Term: 10 years
+
+Base Premium: ₹2,236.85
+Market Adjustments:
+  • Medical Inflation: 1.02x
+  • Disaster Risk: 1.00x
+  • Competition Factor: 0.98x
+Customer Type: Standard
+
+Final Monthly Premium: ₹2,189.27
+Annual Premium: ₹26,271.24
