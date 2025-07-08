@@ -35,32 +35,6 @@ This project was developed as part of an internship application to demonstrate m
 
 ---
 
-## 🗂️ Folder Structure
-
-dynamic-insurance-premium-calculator/
-│
-├── README.md                      # Project overview (this file)
-├── requirements.txt               # Python libraries
-├── LICENSE                        # MIT License
-│
-├── src/
-│   └── insurance_calculator.py    # Main script for premium calculation
-│
-├── demo/
-│   ├── sample_run.txt             # Example terminal run
-│   └── sample_inputs_and_outputs.md  # Input-output pairs
-│
-├── docs/
-│   ├── premium_formula_details.md # Explanation of formula logic
-│   └── feature_description.md     # Description of each feature
-│
-├── models/                        # Trained model (optional)
-│   └── trained_rf_model.pkl
-│
-└── data/                          # Synthetic training data (optional)
-    └── synthetic_training_data.csv
-
-
 ## 📈 Premium Model Overview
 
 - **Base Algorithm**: Random Forest Regressor
